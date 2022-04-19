@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_js",
+  "version": "1.0.0",
+  "description": "practica de live 1, semana 3, LaunchX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielVillagran/first_js_project.git"
+  },
+  "author": "GabrielVillagran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielVillagran/first_js_project/issues"
+  },
+  "homepage": "https://github.com/GabrielVillagran/first_js_project#readme"
+}
