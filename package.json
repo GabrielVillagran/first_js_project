@@ -4,7 +4,7 @@
     "description": "practica de live 1, semana 3, LaunchX",
     "main": "index.js",
     "scripts": {
-        "test": "node ./node_modules/.bin/jest",
+        "test": "jest",
         "start": "node index.js"
     },
     "repository": {
