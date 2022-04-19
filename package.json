@@ -4,7 +4,7 @@
     "description": "practica de live 1, semana 3, LaunchX",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
+        "test": "node ./node_modules/.bin/jest",
         "start": "node index.js"
     },
     "repository": {
